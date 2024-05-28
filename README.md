@@ -12,3 +12,8 @@ Hey there, my name is Stephie
 - ⚡ Fun fact: Hippos can’t swim
 
 ![huhu](https://github.com/StephieTack/StephieTack/assets/170469642/1036cf82-744b-4813-bd2d-077adbb69fb7)
+
+and now:
+- learn
+- learn
+- learn
