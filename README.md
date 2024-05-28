@@ -43,6 +43,8 @@ handcrafting and designing on the computer, and I really enjoy finding solutions
 
 
 ## Note and goals for this year 🎯
-- learn HTML, CSS, JavaScript, node.js, Git
-- stay cool and calm
-- do sports
+- :book: learn HTML, CSS, JavaScript, node.js, Git and much more
+- :surfer: learn more windsurfing skills
+- :athletic_shoe: do sports
+- :dog: stay cool and calm
+
