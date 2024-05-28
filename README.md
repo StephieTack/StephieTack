@@ -28,4 +28,4 @@
 - learn
 - learn
 
-![huhu](https://github.com/StephieTack/StephieTack/assets/170469642/1036cf82-744b-4813-bd2d-077adbb69fb7)
+![animation-of-a-girl-made-in-procreate](https://github.com/StephieTack/StephieTack/assets/170469642/631020ba-6e9c-4632-8626-422195d6f979)
