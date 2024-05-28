@@ -1,19 +1,31 @@
-# Welcome to my profile!
+<h1 align="center">Hi <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">, I'm Stephie</h1>
+<h3 align="center">An aspiring software engineer from Germany</h3>
 
-Hey there, my name is Stephie
+## About me:
 
 - 🔭 I’m currently working on being a better me
 - 🌱 I’m currently learning to become a Software Engineer
 - 👯 I’m looking to collaborate on new platforms
 - 🤔 I’m looking for help with actually almost everything ;)
-- 💬 Ask me about ...
+- 💬 Ask me about anything
 - 📫 How to reach me: https://www.linkedin.com/in/stephanie-tack-46045a257/
 - 😄 Pronouns: she
 - ⚡ Fun fact: Hippos can’t swim
 
-![huhu](https://github.com/StephieTack/StephieTack/assets/170469642/1036cf82-744b-4813-bd2d-077adbb69fb7)
+## Language badges:
 
-and now:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=flat&logo=javascript)
+![MongoDB](https://img.shields.io/badge/MongoDB-555555?style=flat&logo=mongodb)
+
+![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+
+
+**and now I am starting to...**
 - learn
 - learn
 - learn
+
+![huhu](https://github.com/StephieTack/StephieTack/assets/170469642/1036cf82-744b-4813-bd2d-077adbb69fb7)
