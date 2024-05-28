@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">, I'm Stephie</h1>
 <h3 align="center">An aspiring software engineer from Germany</h3>
 
-## About me:
+## About me
 
 - 🔭 I’m currently working on being a better me
 - 🌱 I’m currently learning to become a Software Engineer
@@ -12,7 +12,7 @@
 - 😄 Pronouns: she
 - ⚡ Fun fact: Hippos can’t swim
 
-## Language badges:
+## Language badges
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
@@ -23,9 +23,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
 
-**and now I am starting to...**
-- learn
-- learn
-- learn
-
-![animation-of-a-girl-made-in-procreate](https://github.com/StephieTack/StephieTack/assets/170469642/631020ba-6e9c-4632-8626-422195d6f979)
+## Note and goals for this year 🎯
+- learn HTML, CSS, JavaScript, node.js, Git
+- stay cool and calm
+- do sports
