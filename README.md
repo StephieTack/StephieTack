@@ -3,14 +3,13 @@
 
 ## About me
 
-- 🔭 I’m currently working on being a better me
-- 🌱 I’m currently learning to become a Software Engineer
-- 👯 I’m looking to collaborate on new platforms
-- 🤔 I’m looking for help with actually almost everything ;)
-- 💬 Ask me about anything
-- 📫 How to reach me: https://www.linkedin.com/in/stephanie-tack-46045a257/
-- 😄 Pronouns: she
-- ⚡ Fun fact: Hippos can’t swim
+- :girl: Name: Stephie
+- 🎂 Age: 38
+- 🏡 Location: Horneburg, Germany
+- 📚 Currently Learning: Web Development at neuefische
+- 📫 How to reach me on **LinkedIn**: [Stephanie Tack](https://www.linkedin.com/in/stephanie-tack-46045a257/)
+  
+I am learning to code and enjoy developing programming skills. I love creating things, both handcrafting and designing on the computer, and I really enjoy finding solutions and getting things done.
 
 ## Language badges
 
