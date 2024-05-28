@@ -1,3 +1,6 @@
+![banner_stephanie_tack](https://github.com/StephieTack/StephieTack/assets/170469642/72e1445a-9b0a-4e28-b6c9-c9334b95e9a5)
+
+
 <h1 align="center">Hi <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">, I'm Stephie</h1>
 <h3 align="center">An aspiring software engineer from Germany</h3>
 
