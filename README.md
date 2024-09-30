@@ -1,7 +1,6 @@
 ## About me
 
 Hey there, I am learning to code and enjoy developing programming skills. I love creating things, both 
-
 handcrafting and designing on the computer, and I really enjoy finding solutions and getting things done.
 
 - :girl: Name: Stephie
