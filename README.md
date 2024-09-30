@@ -1,5 +1,3 @@
-![banner_stephanie_tack](https://github.com/StephieTack/StephieTack/assets/170469642/72e1445a-9b0a-4e28-b6c9-c9334b95e9a5)
-
 ## About me
 
 Hey there, I am learning to code and enjoy developing programming skills. I love creating things, both 
