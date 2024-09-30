@@ -5,7 +5,6 @@ Hey there, I am learning to code and enjoy developing programming skills. I love
 handcrafting and designing on the computer, and I really enjoy finding solutions and getting things done.
 
 - :girl: Name: Stephie
-- 🎂 Age: 38
 - 🏡 Location: Horneburg, Germany
 - 📚 Currently Learning: Web Development at neuefische
 - 📫 How to reach me on **LinkedIn**: [Stephanie Tack](https://www.linkedin.com/in/stephanie-tack-46045a257/)
